@@ -1,2 +1,2 @@
-# mi-primer-repositorio
-Primer repositorio de prueba para la materia SOPORTE
+María Virginia García Latanzi
+Legajo 48160
