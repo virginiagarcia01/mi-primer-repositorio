@@ -1,0 +1,1 @@
+¿Qué expectativa tiene de la materia? Fortalecer mis conocimientos en Python y aprender nuevas herramientas, como Github, GitKraken y Pycharm.
